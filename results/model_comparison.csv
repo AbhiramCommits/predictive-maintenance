@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1,AUC
+LogisticRegression,0.95,0.475,0.5,0.4872,0.5075
+DecisionTree,0.8995,0.4974,0.4971,0.4972,0.4971
+RandomForest,0.95,0.475,0.5,0.4872,0.4685
